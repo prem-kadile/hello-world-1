@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> East or west Friendship is the Best !!! </h1>
+<h2> 123 Nenu Kantri </h2>
